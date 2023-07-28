@@ -50,7 +50,7 @@ dep run 'uptime -p'
 
 ## Tree command
 
-Deployer supports [task grouping](tasks#task-grouping) and [before/after hooks](tasks#addbefore). 
+Deployer supports [task grouping](tasks.md#task-grouping) and [before/after hooks](tasks.md#addbefore). 
 To visualize the task hierarchy, use the **dep tree** command.
 
 ```
